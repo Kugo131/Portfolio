@@ -15,7 +15,7 @@
 
 <h1 align="center">Всем привет, Меня зовут <a href="https://https://github.com/Kugo131/" target="_blank">Беслан</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center">Учусь и увлекаюсь всем что связано с аналитикой</h1>
+<h2 align="center">Учусь и увлекаюсь всем что связано с аналитикой</h2>
 
 # Проекты 
 Название проекта | Описание | Инструменты 
