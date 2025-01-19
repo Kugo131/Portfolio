@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
- <img src="[https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif]" alt="[альт]" />
+    <img width="460" height="300" src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif0">
 </p>
 ![alt text](https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif)
 
