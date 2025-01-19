@@ -30,3 +30,11 @@
 # Пройденные курсы 
 - [Karpov Courses](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович.%20Карпов%20Курсы.pdf) :white_check_mark: 
 - [Яндекс Практикум](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович_Сертификат.pdf) :white_check_mark:
+
+### :hammer_and_wrench: Языки программирования и навыки :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</div>
