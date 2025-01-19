@@ -1,5 +1,5 @@
 # Portfolio
-<th><center>![alt text](https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif)</center></th>
+![alt text](https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif)</center></th>
 
 # Проекты 
 Название проекта | Описание | Инструменты 
