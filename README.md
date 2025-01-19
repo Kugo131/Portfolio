@@ -17,5 +17,5 @@
 Также интересуюсь играми, литературой, кино и баскетболом, поэтому могу составить кому-нибудь компанию на площадке после работы.
 
 # Пройденные курсы 
-- [Karpov Courses](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович.%20Карпов%20Курсы.pdf) 
-- [Яндекс Практикум](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович_Сертификат.pdf)
+- [Karpov Courses](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович.%20Карпов%20Курсы.pdf) :white_check_mark: 
+- [Яндекс Практикум](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович_Сертификат.pdf) :white_check_mark:
