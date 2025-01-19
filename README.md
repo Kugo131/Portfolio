@@ -22,3 +22,4 @@
   <img src="https://lab.karpov.courses/certificate/2d9d0524-0394-4bd8-9744-4ad16929db5d/" width="250
     "/>
 </div>
+[загруженное.pdf](https://github.com/user-attachments/files/18470328/default.pdf)
