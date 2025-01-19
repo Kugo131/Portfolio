@@ -1,7 +1,7 @@
 # Portfolio
-<p align="center">
-    <img width="460" height="300" src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif0">
-</p>
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif" width="100"/>
+</div>
 ![alt text](https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif)
 
 # Проекты 
