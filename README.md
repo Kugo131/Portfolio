@@ -15,7 +15,10 @@
 
 <h1 align="center">Всем привет, Меня зовут <a href="https://https://github.com/Kugo131/" target="_blank">Беслан</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kugo131&style=flat-square&color=blue" alt=""/>
+</div>
 
 # Проекты 
 Название проекта | Описание | Инструменты 
