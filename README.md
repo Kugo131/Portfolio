@@ -13,9 +13,10 @@
   </a>
 </div>
 
-<h1 align="center">Всем привет, Меня зовут Беслан<a href="https://daniilshat.ru/" target="_blank">Беслан</a> 
+<h1 align="center">Всем привет, Меня зовут <a href="https://https://github.com/Kugo131/" target="_blank">Беслан</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Учусь и увлекаюсь всем что связано с аналитикой 🇷🇺</h3>
+
 # Проекты 
 Название проекта | Описание | Инструменты 
 --- | --- | --- 
