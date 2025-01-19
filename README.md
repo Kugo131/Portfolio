@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/id394465926">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Вконтакте Badge"/>
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Вконтакте Badge"/>
   </a>
 </div>
 
