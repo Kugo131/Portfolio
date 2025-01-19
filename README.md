@@ -3,6 +3,17 @@
   <img src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif" width="500
     "/>
 </div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 # Проекты 
@@ -14,7 +25,7 @@
 # Обо мне<br />
 Решил заниматься аналитикой, так как (как бы банально это не звучало) люблю анализировать и прогнозировать данные. :ok_hand:<br />
 Для того, чтобы лучше разбираться в этой сфере и в будущем стать настоящим профессионалом прохожу курсы, читаю книги, смотрю разные видеоблоги по программированию, аналитике и Data Science.
-Также интересуюсь играми, литературой, кино и баскетболом, поэтому могу составить кому-нибудь компанию на площадке после работы.
+Также интересуюсь играми, литературой, кино и баскетболом, поэтому могу составить кому-нибудь компанию на площадке после работы. 
 
 # Пройденные курсы 
 - [Karpov Courses](https://github.com/Kugo131/Certificate/blob/main/Куготов%20Беслан%20Тимурович.%20Карпов%20Курсы.pdf) :white_check_mark: 
