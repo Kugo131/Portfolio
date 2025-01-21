@@ -1,6 +1,6 @@
 # Портфолио
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif" width="500
+  <img src="https://cdn.dribbble.com/users/87229/screenshots/2185213/stats.gif" width="400
     "/>
 </div>
 
